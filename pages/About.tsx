@@ -11,8 +11,7 @@ const About: React.FC = () => {
         <div className="w-full md:w-1/3">
           <div className="sticky top-24">
             <div className="aspect-[3/4] rounded-sm overflow-hidden mb-6 border border-white/10 relative group">
-              <img
-                                src="img/프로필.png"
+              <src="img/프로필.png?q=80&w=800&auto=format&fit=crop"
                 alt="Kim Dogyun Profile"
                 className="w-full h-full object-cover filter grayscale contrast-125 group-hover:grayscale-0 transition-all duration-500"
               />
