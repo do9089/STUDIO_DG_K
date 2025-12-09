@@ -12,7 +12,7 @@ const About: React.FC = () => {
           <div className="sticky top-24">
             <div className="aspect-[3/4] rounded-sm overflow-hidden mb-6 border border-white/10 relative group">
 <img
-  src="/img/프로필.png"
+  src="img/프로필.png"
   alt="Kim Dogyun Profile"
   width={800}
   height={800}
