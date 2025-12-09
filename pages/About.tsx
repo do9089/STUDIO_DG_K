@@ -12,7 +12,7 @@ const About: React.FC = () => {
           <div className="sticky top-24">
             <div className="aspect-[3/4] rounded-sm overflow-hidden mb-6 border border-white/10 relative group">
               <img
-                src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=800&auto=format&fit=crop"
+                                src="img/프로필.png"
                 alt="Kim Dogyun Profile"
                 className="w-full h-full object-cover filter grayscale contrast-125 group-hover:grayscale-0 transition-all duration-500"
               />
